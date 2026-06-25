@@ -10,7 +10,6 @@ A simple Java Swing and MySQL based application for managing library records.
 * Java Swing
 * JDBC
 * MySQL
-
 ## Project Description
 This Library Management System helps librarians manage book issue and return activities. The system stores student and book details, calculates fines for late returns, and displays all records through a simple graphical user interface.
 
